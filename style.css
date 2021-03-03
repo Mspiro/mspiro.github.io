@@ -47,6 +47,10 @@
     color: #fff;
 }
 .navbar .menu li{
+    display: none;
+}
+
+.navbar .menu li{
     list-style: none;
     display: inline-block ;
 }
